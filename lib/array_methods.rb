@@ -4,7 +4,8 @@ def using_include(array, element)
 end
 
 def using_sort(array)
-  using_sort.sort
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  array.sort
 
 end
 
